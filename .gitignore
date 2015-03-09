@@ -52,3 +52,20 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# VirtualEnv
+venv/
+
+#Actual Config File
+config.py
+
+#Database files
+*.sqlite
+
+#Vim swap files
+*.swp
+*.swo
+
+#Mac stuff
+.DS_Store
+._*
